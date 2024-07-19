@@ -1,46 +1,23 @@
-تحديث الحزمة
+1- pkg update
 
-ترقية الحزمة -y
+2- pkg upgrade -y
 
-pkg تثبيت git
+3- pkg install git
 
-pkg تثبيت python-pip
+4- pkg install python-pip
 
-نسخة طبق الأصل من git https://github.com/CPMMSTAFZ/cpmMstafz.git
+5- git clone https://github.com/CPMmstafz/cpmmstafz.git
 
-سي دي سي بي ميوان
+6- cd cpmMSTAFZ
 
-سحب git
+7- git pull
 
-طلبات تثبيت python3 -m pip
+8- python3 -m pip install requests
 
-حزمة في بايثون-نومبي
+9- pkg i python-numpy
 
-pip install rich --upgrade
+10- pip install rich --upgrade
 
-pip install -r requirements.txt
+11- pip install -r requirements.txt
 
-بايثون main.py
-
-عن
-لم يتم توفير أي وصف أو موقع ويب أو مواضيع.
-موارد
- اقرأني
- نشاط
-النجوم
- 1 نجمة
-المراقبون
- 2 مشاهدة
-شوك
- 0 شوكة
-مستودع التقارير
-إطلاق
-لم يتم نشر أي إصدارات
-الحزم
-لم يتم نشر أي حزم
-اللغات
-بايثون
-100.0%
-تذييل
-© 2024 GitHub, Inc.
-التنقل في التذييل
+12- python main.py
