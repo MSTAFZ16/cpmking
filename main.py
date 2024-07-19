@@ -11,8 +11,8 @@ import numpy as np
 
 from cpmking import CPMKing
 
-__CHANNEL_USERNAME__ = "cpm1999king"
-__GROUP_USERNAME__ = "cpm19_99king"
+__CHANNEL_USERNAME__ = "cpmMSTAFZ "
+__GROUP_USERNAME__ = "cpmMSTAFZ "
 
 
 def signal_handler(sig, frame):
@@ -51,7 +51,7 @@ def banner(console):
                 gradient_text.append(char)
         gradient_text.append("\n")
     console.print(gradient_text)
-    console.print("\t\t\t              [bold green]♕ 𝐂𝐏𝐌 𝐄𝐖𝐀𝐍 𝐊𝐔𝐑𝐃𝐈𝐒𝐇 ♕[/bold green]")
+    console.print("\t\t\t              [bold green]♕ 𝐂𝐏𝐌 𝙈𝙎𝙏𝘼𝙁𝙕 𝘼𝙡𝙜𝙚𝙧𝙞𝙚 ♕[/bold green]")
     console.print(f"\t\t                [bold][blue]@{__CHANNEL_USERNAME__}[/blue] 𝐎𝐑 [blue]@{__GROUP_USERNAME__}[/blue]")
     console.print("\t\t              𝐂𝐀𝐑 𝐏𝐀𝐑𝐊𝐈𝐍𝐆 𝐌𝐔𝐋𝐓𝐈𝐏𝐋𝐀𝐘𝐄𝐑 𝐇𝐀𝐂𝐊𝐈𝐍𝐆 𝐓𝐎𝐎𝐋")
     console.print("\t                 𝐏𝐋𝐄𝐀𝐒𝐄 𝐋𝐎𝐆𝐎𝐔𝐓 𝐅𝐑𝐎𝐌 𝐂𝐏𝐌 𝐁𝐄𝐅𝐎𝐑𝐄 𝐔𝐒𝐈𝐍𝐆 𝐓𝐇𝐈𝐒 𝐓𝐎𝐎𝐋")
